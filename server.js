@@ -1,7 +1,6 @@
 const express = require('express');
 const bcrypt = require('bcrypt');
 const jwt = require('jsonwebtoken');
-const { json } = require('body-parser');
 const app = express()
 const port = 8000
 const privatKey = 'secret'
