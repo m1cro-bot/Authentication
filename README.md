@@ -1,0 +1,2 @@
+# Authentication
+ ExpressJS, session, bcrypt
