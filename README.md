@@ -1,2 +1,2 @@
 # Authentication
- ExpressJS, session, bcrypt
+ ExpressJS, jsonwebtoken, bcrypt
